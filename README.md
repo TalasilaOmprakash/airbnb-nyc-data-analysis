@@ -24,4 +24,4 @@ This project analyzes Airbnb listings in New York City using Python and Power BI
 - Lower priced listings tend to receive more reviews.
 
 ## Dashboard
-![Dashboard]("C:\Users\ompra\OneDrive\Pictures\Screenshots\Screenshot 2026-03-06 201429.png")
+![Dashboard](https://github.com/TalasilaOmprakash/airbnb-nyc-data-analysis/blob/main/Screenshot%202026-03-06%20201429.png)
